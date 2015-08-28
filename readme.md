@@ -1,5 +1,7 @@
 # NewUp Playground Alpha
 
+[![Latest Stable Version](https://poser.pugx.org/newup-playground/alpha/v/stable)](https://packagist.org/packages/newup-playground/alpha) [![Total Downloads](https://poser.pugx.org/newup-playground/alpha/downloads)](https://packagist.org/packages/newup-playground/alpha) [![Latest Unstable Version](https://poser.pugx.org/newup-playground/alpha/v/unstable)](https://packagist.org/packages/newup-playground/alpha) [![License](https://poser.pugx.org/newup-playground/alpha/license)](https://packagist.org/packages/newup-playground/alpha)
+
 This playground exists to test the components built into the [NewUp Package Generation System](https://github.com/newup/newup) system that allow for package template dependencies to be located and auto-loaded at runtime, without replacing any current auto-loaders.
 
 ## Using The Playground
